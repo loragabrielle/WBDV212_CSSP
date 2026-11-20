@@ -16,6 +16,7 @@
         <link href="https://googleapis.com/css2?family=Six+Caps&display=swap" rel="stylesheet">
 
         <link rel="stylesheet" href="./CSS Files/Products_Style.css?v=2">
+        <link rel="stylesheet" href="./CSS Files/index_Style.css?v=2">
 
         <!-- ===== FontAwesome for icons ===== -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
@@ -658,6 +659,8 @@
         </div>
     
         <script src="JS Files/Products_Script.js"></script>
+        <script src="JS Files/Index_Script.js"></script>
+        <script src="JS Files/AboutUs_Script.js"></script>
             
     </body>
 </html>
